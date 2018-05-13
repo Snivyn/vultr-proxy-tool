@@ -10,10 +10,10 @@ __________________________________________________________
 ## About
 This program intends to use the automate proxy creation using a user's vultr.com API key. By default, it attempts to create 10 proxies. Most accounts will be limited to a max number of servers unless a limit increase is requested (explained below). Once proxies are created by the program, they should be ready for use within a few minutes. Ideally you want to select a location as close as possible to your server (Chicago usually has fastest ping for Shopify). When you're done, make sure to destroy your servers.
 
-DM me (@snivynGOD) if you want any specific changes (ex. more than 5 proxies at a time, change user/password).
+DM me ([@snivynGOD](https://www.twitter.com/snivynGOD)) if you want any specific changes (ex. more than 5 proxies at a time, change user/password) or if you find any bugs.
 
 ### What is Vultr?
-Vultr provides a service to create servers which this program uses to create proxies for you. You can sign up for an account here (referral link: https://www.vultr.com/?ref=7399334) or here (https://www.vultr.com/). You should be able to get some free credit too, just look around on Google for promotions.
+Vultr provides a service to create servers which this program uses to create proxies for you. You can sign up for an account here (referral link: https://www.vultr.com/?ref=7399334) or here (https://www.vultr.com/register/). You should be able to get some free credit too, just look around on Google for promotions.
 
 ### How do I get my API key?
 Login to your Vultr account and then visit this page: https://my.vultr.com/settings/#settingsapi
