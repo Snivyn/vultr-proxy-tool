@@ -1,0 +1,11 @@
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\bin\Debug\vultr-proxy-tool.exe.config
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\bin\Debug\vultr-proxy-tool.exe
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\bin\Debug\vultr-proxy-tool.pdb
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr-proxy-tool.csprojResolveAssemblyReference.cache
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr_proxy_tool.Form1.resources
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr_proxy_tool.Properties.Resources.resources
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr-proxy-tool.csproj.GenerateResource.Cache
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr-proxy-tool.exe
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\obj\Debug\vultr-proxy-tool.pdb
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Snivyn\Desktop\sharanga-supreme\vultr-proxy-tool\vultr-proxy-tool\bin\Debug\Newtonsoft.Json.xml

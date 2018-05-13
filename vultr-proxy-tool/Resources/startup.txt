@@ -1,0 +1,28 @@
+#!/bin/bash
+#
+# Ubuntu 14 LTS
+#
+
+set -v
+
+sudo apt-get -y update
+
+sudo apt-get install -y ntpdate
+sudo apt-get install squid3 apache2-utils -y
+
+sudo touch /etc/squid3/passwd
+sudo htpasswd -b /etc/squid3/passwd valyr snivynGOD
+
+cat << EOF > /etc/squid3/squid.conf
+http_port 3128
+auth_param basic program /usr/lib/squid3/basic_ncsa_auth /etc/squid3/passwd
+auth_param basic realm proxy
+acl valyr proxy_auth REQUIRED
+http_access allow valyr
+cache deny all
+forwarded_for delete
+request_header_access Via deny all
+
+EOF
+
+sudo service squid3 restart
