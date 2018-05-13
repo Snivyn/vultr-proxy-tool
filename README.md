@@ -1,5 +1,7 @@
 # Vultr Proxy Tool
 
+#### [Download Latest Release](https://github.com/Snivyn/vultr-proxy-tool/releases/download/1.0.0/vultr-proxy-tool-0513180330.rar)
+
 #### ATTENTION: Make sure to destroy your servers when you're done or you'll keep getting charged for them! Instructions on how to do so are outlined below.
 
 #### Credits:
